@@ -1,5 +1,7 @@
 const path = require('path');
+// eslint-disable-next-line import/no-unresolved
 const HtmlWebPackPlugin = require('html-webpack-plugin');
+// eslint-disable-next-line import/no-unresolved
 const MiniCssExtractPlugin = require('mini-css-extract-plugin');
 
 module.exports = {
